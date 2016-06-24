@@ -1,0 +1,19 @@
+#GML{
+	width: 600px;
+	height: 600px;
+	display: block;
+	margin:auto;
+}
+
+.pan{
+	margin:auto;
+	width: 500px;
+}
+
+.logo{
+	height:50px;
+	width:200px;
+	margin:auto;
+	background-image: url(lifeLogo.png);
+	background-size:100% 100%;
+}
